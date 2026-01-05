@@ -13,7 +13,7 @@ From the Watch Window set USBWriteOpEnable to 1. It will be immediately set back
 Unplug the USB Pen Drive and the Appli_state changes back to APPLICATION_DISCONNECT.<br>
 Plug-in the USB Pen drive into the PC and check it's contents as  - TEMP.txt file containing the line "Welcome to EmbeTronicX!!!"<br>
 
-https://embetronicx.com/tutorials/microcontrollers/stm32/stm32-usb-host-msc-connect-pendrive-to-stm32/
+https://embetronicx.com/tutorials/microcontrollers/stm32/stm32-usb-host-msc-connect-pendrive-to-stm32/<br>
 Based on the link above : <br>
 a. USB_HOST and FATFS configuration <br>
 b. ETX_MSC_ProcessUsbDevice() <br>
