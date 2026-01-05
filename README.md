@@ -5,6 +5,9 @@ stm32f439 CUBEMX generated project with Usb_Host and FatFs to access a USB Pen D
 Using embedded software package STM32F4 v1.28.3 with classic Middleware versions ST USB Host Lib V3.5.1. and FatFs VR0.12c (ST modified 2023-08-18).<br>
 This supports the NUCLEO-F439ZI board.<br>
 
+This project was used as reference to generate the STM32U545 project in the link below:<br>
+https://github.com/NereusF1/stm32u545-classic-coremw-usb-host-fatfs<br>
+
 Debug the project.<br>
 Add Appli_state and USBWriteOpEnable to the Live Expressions Watch Window.<br>
 Appli_state will be APPLICATION_DISCONNECT initially when the USB Pen Drive is not connected.<br>
