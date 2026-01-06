@@ -5,7 +5,7 @@ stm32f439 CUBEMX generated project with Usb_Host MSC and FatFs to access a USB P
 Using embedded software package STM32F4 v1.28.3 with classic Middleware versions ST USB Host Lib V3.5.1. and FatFs VR0.12c (ST modified 2023-08-18).<br>
 This supports the NUCLEO-F439ZI board.<br>
 
-This project was used as reference to generate the STM32U545 project in the link below:<br>
+This project was used as reference to generate the classic middlewares and supporting code that was then ported to the STM32U545 project in the link below:<br>
 https://github.com/NereusF1/stm32u545-classic-coremw-usb-host-fatfs<br>
 
 Debug the project.<br>
