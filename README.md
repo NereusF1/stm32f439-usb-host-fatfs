@@ -1,6 +1,6 @@
 # stm32f439-usb-host-fatfs
 
-stm32f439 CUBEMX generated project with Usb_Host and FatFs to access a USB Pen Drive.<br>
+stm32f439 CUBEMX generated project with Usb_Host MSC and FatFs to access a USB Pen Drive.<br>
 
 Using embedded software package STM32F4 v1.28.3 with classic Middleware versions ST USB Host Lib V3.5.1. and FatFs VR0.12c (ST modified 2023-08-18).<br>
 This supports the NUCLEO-F439ZI board.<br>
